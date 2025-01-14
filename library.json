@@ -1,0 +1,25 @@
+{
+  "name": "rp-VL53L1X",
+  "version": "1.0.0",
+  "description": "VL53L1X library for RP2040/RP2350",
+  "keywords": "sensor, lidar, vl53l1x",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/marinetechsys/rp-VL53L1X.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Alex Mous",
+      "url": "https://github.com/alex-mous"
+    },
+    {
+      "name": "Adam Phoenix",
+      "email": "aphoenix@blueoceanmts.com",
+      "url": "https://github.com/marinetechsys"
+    }
+  ],
+  "frameworks": "*",
+  "platforms": "*"
+}
